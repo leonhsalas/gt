@@ -1,0 +1,15 @@
+#primero{
+    background-color: red;
+}
+
+#segundo{
+    background: transparent;
+}
+
+#primero.close{
+    background: transparent;
+}
+
+#segundo.open{
+    background-color: red;
+}
